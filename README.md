@@ -45,9 +45,9 @@
 
 - [ ] php artisan make:resource        Create a new resource
 
-## php artisan make:rule            Create a new validation rule
+- [ ] php artisan make:rule            Create a new validation rule
 
-## php artisan make:seeder          Create a new seeder class
+- [ ] php artisan make:seeder          Create a new seeder class
 
-## php artisan make:test            Create a new test class
+- [ ] php artisan make:test            Create a new test class
 
