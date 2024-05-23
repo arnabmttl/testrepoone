@@ -1,4 +1,4 @@
-# Arnab's Dictionary
+## Arnab's Dictionary
 
 =================LARAVEL ARTISAN COMMANDS======================
 
@@ -8,7 +8,7 @@
 
 - [ ] php artisan make:controller      Create a new controller class
 ```
-### Parameters
+## Parameters
 --resource
 --api
 --invokable
